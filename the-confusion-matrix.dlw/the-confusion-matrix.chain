@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1976
+slug  : the-confusion-matrix
+seal  : ce156336bd3b16825716439678d8db3aef7598f48899c1f883ca1d1a9f029364
+prev  : d497aa99731c52cea3539fc08ae89b4e9eed16ce9d733f89cd3e724bfae7b445
+link  : ed18c7776f0df6e24361405d19ce28e198f159bd9735cd5a71fbaed8e7895142
+head  : ed18c7776f0df6e24361405d19ce28e198f159bd9735cd5a71fbaed8e7895142
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
